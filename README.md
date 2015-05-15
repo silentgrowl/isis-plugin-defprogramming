@@ -17,3 +17,7 @@ And then execute:
 ## Usage
 
 Post a random programming quote into a room by typing ```!defprogramming```, ```!programmingquote```, or ```!defp``` in chat.
+
+## Links
+
+* [isis-plugin-defprogramming on RubyGems](https://rubygems.org/gems/isis-plugin-defprogramming)
